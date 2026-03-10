@@ -1,16 +1,31 @@
-## Hi there 👋
+# Carlos Morales
 
-<!--
-**carlosmorales-dev-mx/carlosmorales-dev-mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Mexico.
 
-Here are some ideas to get you started:
+I work mainly with Node.js, Express, PostgreSQL, Prisma, and Vue.  
+Right now I’m focused on backend development, APIs, databases, and AI-based tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- Vue
+- ChromaDB
+- REST APIs
+
+## Projects
+### AI Knowledge Assistant
+A web application that processes documents, stores embeddings, retrieves relevant context, and generates answers with Gemini.
+
+### Job Tracker API
+A backend API for managing job applications, authentication, and application status.
+
+## Currently learning
+- Better backend architecture
+- RAG systems
+- Docker
+- Writing cleaner APIs
+
+## Contact
+Email: carlosmorales.dev.mx@gmail.com
