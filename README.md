@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" />
+<a><img src="./banner.svg" width="100%" /></a>
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="./divider.svg" width="100%" />
+<a><img src="./divider.svg" width="100%" /></a>
 
 ## About
 
@@ -22,15 +22,15 @@ Backend engineer focused on building **production-grade systems**: containerized
 
 Selected work and full case studies at **[cmorales.dev](https://cmorales.dev)** — code lives in the pinned repositories below.
 
-<img src="./divider.svg" width="100%" />
+<a><img src="./divider.svg" width="100%" /></a>
 
 ## Stack
 
 <div align="center">
-<img src="./stack.svg" width="100%" />
+<a><img src="./stack.svg" width="100%" /></a>
 </div>
 
-<img src="./divider.svg" width="100%" />
+<a><img src="./divider.svg" width="100%" /></a>
 
 ## Contact
 
@@ -45,4 +45,4 @@ Selected work and full case studies at **[cmorales.dev](https://cmorales.dev)** 
 
 <br/>
 
-<img src="./footer.svg" width="100%" />
+<a><img src="./footer.svg" width="100%" /></a>
