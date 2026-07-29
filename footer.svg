@@ -1,0 +1,17 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#141d33"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="90" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#accent)"/>
+  <text x="450" y="42" font-size="16" font-weight="600" text-anchor="middle" fill="#e2e8f0">Thanks for stopping by</text>
+  <text x="450" y="66" font-size="13" text-anchor="middle" fill="#64748b">Let's build something great together — cmorales.dev</text>
+  <rect x="1" y="1" width="898" height="88" rx="13" fill="none" stroke="#1e293b" stroke-width="1.5"/>
+</svg>
